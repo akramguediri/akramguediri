@@ -53,67 +53,67 @@ Hi there! I'm Akram, a jack-of-all-trades engineer with a strong background in c
 
 ### Cybersecurity Tools
 
-## Network Security
+### Network Security
 - Wireshark
 - Nmap
 - Snort
 - Suricata
 
-## Endpoint Security
+### Endpoint Security
 - Symantec Endpoint Protection
 - CrowdStrike Falcon
 - Carbon Black
 - ESET Endpoint Security
 
-## Vulnerability Management
+### Vulnerability Management
 - Nessus
 - OpenVAS
 - Qualys
 - Rapid7 Nexpose
 
-## Web Security
+### Web Security
 - OWASP ZAP (Zed Attack Proxy)
 - Burp Suite
 - Acunetix
 - Snyk
 
-## Identity & Access Management
+### Identity & Access Management
 - Okta
 - Microsoft Azure Active Directory
 - Auth0
 - OneLogin
 
-## Security Information and Event Management (SIEM)
+### Security Information and Event Management (SIEM)
 - Splunk
 - IBM QRadar
 - LogRhythm
 - Elastic Security
 
-## Incident Response
+### Incident Response
 - TheHive
 - Cortex XSOAR
 - SIRP
 - GRR Rapid Response
 
-## Forensics
+### Forensics
 - FTK Imager
 - EnCase
 - Autopsy
 - X1 Social Discovery
 
-## Penetration Testing
+### Penetration Testing
 - Metasploit
 - Kali Linux
 - Burp Suite
 - Nessus
 
-## Threat Intelligence
+### Threat Intelligence
 - ThreatConnect
 - Recorded Future
 - Anomali
 - AlienVault
 
-## Cloud Security
+### Cloud Security
 - AWS Security Hub
 - Cloudflare
 - Microsoft Defender for Cloud
